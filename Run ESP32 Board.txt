@@ -1,10 +1,12 @@
+The Steps:
 1-install ESP32 Board in Arduino IDE.
 2-Decide the pins and set it in the code.
 3-Upload Code to the ESP32.
 4-Controlling an LED connected to GPIO 23.
 5-Check if the LED connected to GPIO 23 is blinking.
+======================================================
 
-//the code 
+The Code: 
 /*
   Blink
 */
