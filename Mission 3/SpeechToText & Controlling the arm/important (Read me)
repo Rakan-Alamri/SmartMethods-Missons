@@ -2,8 +2,8 @@ Must have servo to test the code.
 First connect the servo and write this command in seral monitor:
 
 ///
-left@
 right@
+left@
 top@
 ///
 
