@@ -1,0 +1,10 @@
+Must have servo to test the code.
+First connect the servo and write this command in seral monitor:
+
+///
+left@
+right@
+top@
+///
+
+The Baudrate must be: 115200
